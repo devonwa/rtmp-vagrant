@@ -1,4 +1,4 @@
-#rtmp_vagrant
+#vagrant-rtmp
 
 Quickly spin up an RTMP server using a Vagrant VM.
 
